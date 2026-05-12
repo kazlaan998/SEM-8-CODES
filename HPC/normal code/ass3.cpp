@@ -1,4 +1,4 @@
-//Implement Min, Max, Sum and Average operations using Parallel Reduction.
+//IF NOT RUNNING, CHECK README.MD. Implement Min, Max, Sum and Average operations using Parallel Reduction.
 
 #include<iostream>
 #include<omp.h>
