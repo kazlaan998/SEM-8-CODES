@@ -1,7 +1,7 @@
-'''
+/*
     Design and implement Parallel Breadth First Search and Depth First Search based on existing
 algorithms using OpenMP. Use a Tree or an undirected graph for BFS and DFS .
-'''
+*/
 #include <iostream>
 #include <vector>
 #include <queue>
