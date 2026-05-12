@@ -1,6 +1,5 @@
-'''
-  Implement Min, Max, Sum and Average operations using Parallel Reduction.
-'''
+//Implement Min, Max, Sum and Average operations using Parallel Reduction.
+
 #include<iostream>
 #include<omp.h>
 
@@ -32,7 +31,7 @@ int sum(int arr[], int n){
   return sum;
 }
 
-int average(int arr[], int n){
+double average(int arr[], int n){
   return (double)sum(arr, n) / n;
 }
 
