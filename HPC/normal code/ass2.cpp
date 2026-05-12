@@ -1,4 +1,4 @@
-/*
+/* IF NOT RUNNING, CHECK README.MD
     Write a program to implement Parallel Bubble Sort and Merge sort using OpenMP. Use
 existing algorithms and measure the performance of sequential and parallel algorithms.
 */
